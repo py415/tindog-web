@@ -28,19 +28,19 @@ TinDog is an online dating web application for dogs that allows users to look an
 
 ## App Preview
 
-<img src="https://github.com/py415/app-resources/blob/master/web/tindog_title.png" width=50%>
+<img src="https://github.com/py415/app-resources/blob/master/web/tindog_title.png">
 
-<img src="https://github.com/py415/app-resources/blob/master/web/tindog_features.png" width=50%>
+<img src="https://github.com/py415/app-resources/blob/master/web/tindog_features.png">
 
-<img src="https://github.com/py415/app-resources/blob/master/web/tindog_testimonials1.png" width=50%>
+<img src="https://github.com/py415/app-resources/blob/master/web/tindog_testimonials1.png">
 
-<img src="https://github.com/py415/app-resources/blob/master/web/tindog_testimonials2.png" width=50%>
+<img src="https://github.com/py415/app-resources/blob/master/web/tindog_testimonials2.png">
 
-<img src="https://github.com/py415/app-resources/blob/master/web/tindog_pricing.png" width=50%>
+<img src="https://github.com/py415/app-resources/blob/master/web/tindog_pricing.png">
 
-<img src="https://github.com/py415/app-resources/blob/master/web/tindog_cta.png" width=50%>
+<img src="https://github.com/py415/app-resources/blob/master/web/tindog_cta.png">
 
-<img src="https://github.com/py415/app-resources/blob/master/web/tindog_footer.png" width=50%>
+<img src="https://github.com/py415/app-resources/blob/master/web/tindog_footer.png">
 
 ## Credits
 
