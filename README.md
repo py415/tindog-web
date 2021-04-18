@@ -17,14 +17,14 @@ TinDog is an online dating web application for dogs that allows users to look an
 
 ### User Stories
 
-- [x] Add a navigation bar section on the top of the webpage that includes hyperlinks to the Contacts, Pricing, and Download page.
-- [x] Add a title section that briefly describes what the website is about.
-- [x] Add a features section that gives a brief overview of the list of features that the website offers.
-- [x] Add a testimonials section that showcases past customers experience with our website.
-- [x] Add a press section that shows users a list of the distinguised newspapers and journalists that wrote about the website.
-- [x] Add a pricing section that shows the different pricing tiers and packages with features in each package.
-- [x] Add a call to action section that inspires users to get started with the website.
-- [x] Add a footers section that includes a list of the socials for website.
+- [x] User shall be able to see a navigation bar section on the top of the webpage that includes hyperlinks to the Contacts, Pricing, and Download page.
+- [x] User shall be able to see a title section that briefly describes what the website is about.
+- [x] User shall be able to see a features section that gives a brief overview of the list of features that the website offers.
+- [x] User shall be able to see a testimonials section that showcases past customers experience with our website.
+- [x] User shall be able to see a press section that shows users a list of the distinguished newspapers and journalists that wrote about the website.
+- [x] User shall be able to see a pricing section that shows the different pricing tiers and packages with features in each package.
+- [x] User shall be able to see a call to action section that inspires users to get started with the website.
+- [x] User shall be able to see a footers section that includes a list of the socials for website.
 
 ## App Preview
 
