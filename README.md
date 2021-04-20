@@ -33,7 +33,7 @@ TinDog is an online dating web application for dogs that allows users to look an
 
 ## Frameworks
 
-- [Bootstrap](https://github.com/twbs/bootstrap) - Free and open-source CSS framework directed at responsive, mobile-first front-end web development.
+- [Bootstrap](https://github.com/twbs/bootstrap) - Free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
 
 ## Credits
 
