@@ -1,21 +1,19 @@
-# TinDog
+# 💖 TinDog 🐶
 
-## Table of Contents
+## 📋 Table of Contents
 
-1. [Overview](#Overview)
-2. [Product Specs](#Product-Specs)
-3. [App Preview](#App-Preview)
-4. [Frameworks](#Frameworks)
-5. [Credits](#Credits)
+1. [Overview](#-Overview)
+2. [Product Specs](#-Product-Specs)
+3. [App Preview](#-App-Preview)
+4. [Frameworks](#-Frameworks)
+5. [Credits](#-Credits)
 
-## Overview
-
+## 👀 Overview
 ### Description
 
 TinDog is an online dating web application for dogs that allows users to look and match for compatible partners for their dogs.
 
-## Product Specs
-
+## 📕 Product Specs
 ### User Stories
 
 - [x] User shall be able to see a navigation bar section on the top of the webpage that includes hyperlinks to the Contacts, Pricing, and Download page.
@@ -27,14 +25,14 @@ TinDog is an online dating web application for dogs that allows users to look an
 - [x] User shall be able to see a call to action section that inspires users to get started with the website.
 - [x] User shall be able to see a footers section that includes a list of the socials for website.
 
-## App Preview
+## 🎬 App Preview
 
-<img src="https://github.com/py415/app-resources/blob/master/web/tindog/tindog-full-screen.png">
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/Mockups/web/2.%20tindog-full-screen.png">
 
-## Frameworks
+## 📚 Frameworks
 
 - [Bootstrap](https://github.com/twbs/bootstrap) - Free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
 
-## Credits
+## 💳 Credits
 
 > This is a companion project to The Complete Web Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/).
