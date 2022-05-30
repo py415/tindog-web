@@ -30,7 +30,7 @@ TinDog is an online dating web application for dogs that allows users to look an
 
 ## 🎬 App Preview
 
-<img src="https://raw.githubusercontent.com/py415/app-resources/master/Mockups/web/2.%20tindog-full-screen.png">
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/Mockups/web/compressed/2.%20tindog-full-screen.png">
 
 ## 📚 Frameworks
 
